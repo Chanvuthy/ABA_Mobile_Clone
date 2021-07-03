@@ -30,6 +30,7 @@ class HomePage extends StatelessWidget {
 
     );
   }
+  
   Widget get _buildBody{
     return Column(
       children: [
